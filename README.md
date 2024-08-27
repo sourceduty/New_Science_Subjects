@@ -1,6 +1,6 @@
 ![Researcher](https://github.com/user-attachments/assets/4caea9b5-2b78-4b50-aad5-c8cecf45fef7)
 
-> Newly created, original and emerging scientific theories, frameworks with concepts.
+> Newly created, original emerging scientific theories, frameworks with concepts.
 
 #
 
