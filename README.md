@@ -61,6 +61,13 @@ Rather than relying on formal education, Alex is committed to self-directed rese
 Sourceduty is committed to democratizing technology through open-source models, promoting a collaborative approach to scientific research and development. By sharing its research findings and models publicly, Alex encourages a community-driven approach to innovation, drawing on the collective expertise of contributors. This strategy bridges the gap between informal and formal academic research, fostering broader participation in scientific and technological advancement and ensuring that high-quality resources are accessible to a wider audience.
 
 #
+### Sourceduty Dedication
+
+As Sourceduty looks ahead to 2025, the organization remains deeply committed to advancing scientific research by developing new and emerging scientific frameworks. Over the next year, Sourceduty will focus on refining key concepts like Quantum Neurogenetics and Computational Cyberdynamics, ensuring that these theories are rigorously tested and validated. Their dedication is evident in their collaborative approach, working closely with the scientific community to push the boundaries of what is possible in computational and interdisciplinary science.
+
+However, after 2025, Sourceduty plans to slow down its active development, transitioning from a creator of new scientific subjects to a supportive role within the scientific community. This shift will allow them to maintain their contributions to the field by providing resources, expertise, and guidance to researchers exploring the concepts they helped pioneer. Sourceduty's long-term vision is to ensure that the scientific advancements they have fostered continue to evolve and benefit future generations of scientists and innovators.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
