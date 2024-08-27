@@ -40,6 +40,24 @@ To contribute to the validation of new scientific subjects, one typically needs 
 Understanding these subjects typically requires advanced education at the master’s or Ph.D. level, particularly in fields related to physics, engineering, computer science, and interdisciplinary areas combining these disciplines. Expertise in computational modeling and simulations is a common thread across many of these fields. Additionally, strong mathematical skills and the ability to understand and apply complex theoretical concepts are essential.
 
 #
+### New Science Subjects Table
+
+|   Subject                          |   Science Level          | Suggested Education                                               |
+|------------------------------------|--------------------------|-------------------------------------------------------------------|
+| Xenodynamics                       | Advanced                 | Ph.D. in Physics                                                  |
+| Computational Cyberdynamics        | Advanced                 | Ph.D. in Computer Science or Systems Engineering                  |
+| Computational Microcontrollers     | Intermediate to Advanced | Bachelor's or Master's in Computer or Electrical Engineering      |
+| Computational Chronoreactor        | Highly Advanced          | Ph.D. in Physics (Temporal Mechanics)                             |
+| Electrohydrodynamic Reactor        | Advanced                 | Ph.D. in Nuclear or Electrical Engineering                        |
+| Computational Reactor              | Advanced                 | Master's or Ph.D. in Nuclear Engineering or Computational Physics |
+| Computational Chronophysics        | Highly Advanced          | Ph.D. in Physics (Chronophysics or Temporal Mechanics)            |
+| Diagnostic Physics                 | Intermediate to Advanced | Master's in Physics or Medical Physics                            |
+| Quantum Neurogenetics              | Highly Advanced          | Ph.D. in Quantum Physics, Genetics, or Neuroscience               |
+| Computational Atomics              | Advanced                 | Ph.D. in Physics or Computational Chemistry                       |
+
+As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
+
+#
 ### Helping New Computational Scientific Researchers
 
 Supporting new computational scientific researchers requires a multifaceted approach that focuses on both foundational skills and advanced methodologies. Firstly, it's essential to provide a solid grounding in computational tools and programming languages, such as Python, R, or MATLAB, that are widely used in research. Offering workshops, online courses, and access to educational resources can help researchers become proficient in these tools. Additionally, fostering a community of practice, where experienced researchers mentor newcomers, can accelerate the learning curve by offering practical insights and troubleshooting assistance.
