@@ -72,11 +72,13 @@ Following 2025, Sourceduty plans to gradually reduce its active development, tra
 
 All science research subject information, frameworks, repositories, and source codes developed by Sourceduty are the exclusive intellectual property of Sourceduty and are protected under commercial copyright law. All rights are reserved.
 
-No part of these research subject materials may be reproduced, distributed, transmitted, or sold in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Sourceduty. This includes any unauthorized commercial use, sale, or distribution of these science research subject materials.
+This is an ownership notice regarding the use of Sourceduty scientific research materials. You are permitted to distribute, remix, adapt, and build upon the materials developed by Sourceduty, but only for noncommercial purposes. Any such use must include proper attribution to Sourceduty as the original creator. Commercial use of these materials, including reproduction, distribution, transmission, or sale, is strictly prohibited without prior written consent from Sourceduty. Failure to comply with these terms, including the omission of appropriate attribution, will be considered a violation of Sourceduty's rights and may result in legal action.
 
-Unauthorized use, including but not limited to reverse engineering, decompiling, disassembling, or the unauthorized sale of these materials, is strictly prohibited. By accessing or receiving these materials, you agree to use them solely for the specific purposes for which they were provided. Any other use, especially for commercial gain, is expressly forbidden without prior written consent from Sourceduty.
+This srves as a notice of Sourceduty's commitment to protecting its intellectual property and ensuring that its materials are used in accordance with the specified conditions. Sourceduty will take legal action to stop any unauthorized sales, distribution, or use of its science research subject materials and will enforce its rights to the fullest extent of the law.
 
-Sourceduty will take legal action to stop any unauthorized sales, distribution, or use of its science research subject materials and will enforce its rights to the fullest extent of the law.
+.......................................................
+
+[Noncommercial Science](https://creativecommons.org/licenses/by-nc/4.0/)
 
 #
 ### Related Links
