@@ -35,6 +35,10 @@ To contribute to the validation of new scientific subjects, one typically needs 
 <br>
 [Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
 
+.................................................................................................................................
+
+Understanding these subjects typically requires advanced education at the master’s or Ph.D. level, particularly in fields related to physics, engineering, computer science, and interdisciplinary areas combining these disciplines. Expertise in computational modeling and simulations is a common thread across many of these fields. Additionally, strong mathematical skills and the ability to understand and apply complex theoretical concepts are essential.
+
 #
 ### Helping New Computational Scientific Researchers
 
