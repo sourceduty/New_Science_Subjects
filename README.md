@@ -63,9 +63,9 @@ Sourceduty is committed to democratizing technology through open-source models, 
 #
 ### Sourceduty Dedication
 
-As Sourceduty looks ahead to 2025, the organization remains deeply committed to advancing scientific research by developing new and emerging scientific frameworks. Over the next year, Sourceduty will focus on refining key concepts like Quantum Neurogenetics and Computational Cyberdynamics, ensuring that these theories are rigorously tested and validated. Their dedication is evident in their collaborative approach, working closely with the scientific community to push the boundaries of what is possible in computational and interdisciplinary science.
+As Sourceduty looks ahead to 2025, the company remains deeply committed to advancing scientific research by developing new and emerging scientific frameworks. Over the next year, Sourceduty will focus on refining key concepts like Quantum Neurogenetics and Computational Cyberdynamics, ensuring that these theories are rigorously tested and validated. This dedication is evident in a collaborative approach, working closely with the scientific community to push the boundaries of what is possible in computational and interdisciplinary science.
 
-However, after 2025, Sourceduty plans to slow down its active development, transitioning from a creator of new scientific subjects to a supportive role within the scientific community. This shift will allow them to maintain their contributions to the field by providing resources, expertise, and guidance to researchers exploring the concepts they helped pioneer. Sourceduty's long-term vision is to ensure that the scientific advancements they have fostered continue to evolve and benefit future generations of scientists and innovators.
+However, after 2025, Sourceduty plans to slow down its active development, transitioning from a creator of new scientific subjects to a supportive role within the scientific community. This shift will allow Sourceduty to maintain the contributions to scientific research fields by providing resources, expertise, and guidance to researchers exploring the concepts that Sourceduty helped pioneer. Sourceduty's long-term vision is to ensure that the scientific advancements that have developed continue to evolve and benefit future generations of scientists and innovators.
 
 #
 ### Related Links
