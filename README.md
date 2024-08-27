@@ -68,6 +68,15 @@ As Sourceduty looks toward 2025, the company remains deeply committed to advanci
 Following 2025, Sourceduty plans to gradually reduce its active development, transitioning from a creator of new scientific subjects to a supportive role within the scientific community. This strategic shift will enable Sourceduty to sustain its contributions to scientific research by offering resources, expertise, and guidance to researchers exploring the concepts Sourceduty has pioneered. Sourceduty's long-term vision is to ensure that the scientific advancements it has fostered continue to evolve, benefiting future generations of scientists and innovators.
 
 #
+### Ownership of Science Subjects
+
+Sourceduty, as the rightful owner and creator of the new scientific subjects it develops, asserts its exclusive intellectual property rights over all materials, including but not limited to source code, documentation, designs, and any related works. Unauthorized access, use, distribution, modification, or reproduction of any content within this project is strictly prohibited. These materials are considered proprietary and confidential, and any breach of this confidentiality will be subject to legal action to the fullest extent permissible under applicable law.
+
+By accessing or receiving these new scientific subjects, you acknowledge and agree that the contents are provided to you solely for the specific purposes for which they were intended. Any other use, including reverse engineering, decompiling, or disassembling the software, is expressly forbidden unless prior written consent is obtained from Sourceduty. Violation of these terms may result in immediate termination of access to the project, as well as potential legal repercussions, including claims for damages.
+
+Sourceduty disclaims all warranties, whether express or implied, regarding these new science subjects, including but not limited to any implied warranties of merchantability or fitness for a particular purpose. In no event shall Sourceduty or its affiliates be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the software, even if Sourceduty has been advised of the possibility of such damages. All users are required to adhere strictly to the provided legal guidelines and must retain all copyright notices and this legal statement in any copies or substantial portions of the software.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
