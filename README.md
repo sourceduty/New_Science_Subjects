@@ -76,10 +76,6 @@ This is an ownership notice regarding the use of Sourceduty scientific research 
 
 This serves as a notice of Sourceduty's commitment to protecting its intellectual property and ensuring that its materials are used in accordance with the specified conditions. Sourceduty will take legal action to stop any unauthorized sales, distribution, or use of its science research subject materials and will enforce its rights to the fullest extent of the law.
 
-.......................................................
-
-[Noncommercial Science](https://creativecommons.org/licenses/by-nc/4.0/)
-
 #
 ### Related Links
 
@@ -120,6 +116,8 @@ This serves as a notice of Sourceduty's commitment to protecting its intellectua
 [Math](https://github.com/sourceduty/Math)
 <br>
 [Science](https://github.com/sourceduty/Science)
+<br>
+[Noncommercial Science](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
