@@ -1,4 +1,4 @@
-![Researcher](https://github.com/user-attachments/assets/b25fa3aa-b55a-4cac-9cf8-6e2ff3510ff5)
+![Researcher](https://github.com/user-attachments/assets/4caea9b5-2b78-4b50-aad5-c8cecf45fef7)
 
 > Newly created, original and emerging scientific theories, frameworks with concepts.
 
