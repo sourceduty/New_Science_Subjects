@@ -32,6 +32,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
 <br>
 [Quantum Neurogenetics](https://github.com/sourceduty/Quantum_Neurogenetics)
+<br>
+[Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
 
 #
 ### Helping New Computational Scientific Researchers
