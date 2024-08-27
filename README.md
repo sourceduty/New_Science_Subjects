@@ -70,11 +70,11 @@ Following 2025, Sourceduty plans to gradually reduce its active development, tra
 #
 ### Ownership of Science Subjects
 
-Sourceduty, as the rightful owner and creator of the new scientific subjects it develops, Sourceduty asserts its exclusive intellectual property rights over all materials, including but not limited to source code, documentation, designs, and any related works. Unauthorized access, use, distribution, modification, or reproduction of any content within this project is strictly prohibited. These materials are considered proprietary and confidential, and any breach of this confidentiality will be subject to legal action to the fullest extent permissible under applicable law.
+Sourceduty is the exclusive owner and creator of all new scientific subjects and related materials it develops. This includes, but is not limited to, source code, documentation, designs, and any associated works. Sourceduty asserts its intellectual property rights over these materials, which are considered proprietary.
 
-By accessing or receiving these new scientific subjects, you acknowledge and agree that the contents are provided to you solely for the specific purposes for which they were intended. Any other use, including reverse engineering, decompiling, or disassembling the software, is expressly forbidden unless prior written consent is obtained from Sourceduty. Violation of these terms may result in immediate termination of access to the project, as well as potential legal repercussions, including claims for damages.
+Unauthorized access, use, distribution, modification, or reproduction of any content within these materials is strictly prohibited. By accessing or receiving these scientific subjects, you acknowledge and agree that the contents are provided solely for the specific purposes for which they were intended. Any other use, including reverse engineering, decompiling, or disassembling the software, is expressly forbidden unless prior written consent is obtained from Sourceduty.
 
-Sourceduty disclaims all warranties, whether express or implied, regarding these new science subjects, including but not limited to any implied warranties of merchantability or fitness for a particular purpose. In no event shall Sourceduty or its affiliates be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the software, even if Sourceduty has been advised of the possibility of such damages. All users are required to adhere strictly to the provided legal guidelines and must retain all copyright notices and this legal statement in any copies or substantial portions of the software.
+Sourceduty reserves the right to enforce these rights and pursue legal action against any violations.
 
 #
 ### Related Links
