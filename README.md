@@ -57,20 +57,20 @@ Understanding these subjects typically requires advanced education at the master
 #
 ### New Science Subjects Table
 
-|   Subject                          |   Science Level          | Suggested Education                                               |
-|------------------------------------|--------------------------|-------------------------------------------------------------------|
-| Xenodynamics                       | Advanced                 | Ph.D. in Physics                                                  |
-| Computational Cyberdynamics        | Advanced                 | Ph.D. in Computer Science or Systems Engineering                  |
-| Computational Microcontrollers     | Intermediate to Advanced | Bachelor's or Master's in Computer or Electrical Engineering      |
-| Computational Chronoreactor        | Highly Advanced          | Ph.D. in Physics (Temporal Mechanics)                             |
-| Electrohydrodynamic Reactor        | Advanced                 | Ph.D. in Nuclear or Electrical Engineering                        |
-| Computational Reactor              | Advanced                 | Master's or Ph.D. in Nuclear Engineering or Computational Physics |
-| Computational Chronophysics        | Highly Advanced          | Ph.D. in Physics (Chronophysics or Temporal Mechanics)            |
-| Diagnostic Physics                 | Intermediate to Advanced | Master's in Physics or Medical Physics                            |
-| Quantum Neurogenetics              | Highly Advanced          | Ph.D. in Quantum Physics, Genetics, or Neuroscience               |
-| Computational Atomics              | Advanced                 | Ph.D. in Physics or Computational Chemistry                       |
-| CPLDs                              | Intermediate             | Bachelor's in Electrical or Computer Engineering                  |
-| Computational Agribusiness         | Intermediate to Advanced | Ph.D. in Agricultural Sciences or Environmental Science           |
+|   Subject                          |   Science Level          | Suggested Education                                                                    |
+|------------------------------------|--------------------------|----------------------------------------------------------------------------------------|
+| Xenodynamics                       | Advanced                 | Ph.D. in Physics                                                                       |
+| Computational Cyberdynamics        | Advanced                 | Ph.D. in Computer Science or Systems Engineering                                       |
+| Computational Microcontrollers     | Intermediate to Advanced | Bachelor's or Master's in Computer or Electrical Engineering                           |
+| Computational Chronoreactor        | Highly Advanced          | Ph.D. in Physics (Temporal Mechanics)                                                  |
+| Electrohydrodynamic Reactor        | Advanced                 | Ph.D. in Nuclear or Electrical Engineering                                             |
+| Computational Reactor              | Advanced                 | Master's or Ph.D. in Nuclear Engineering or Computational Physics                      |
+| Computational Chronophysics        | Highly Advanced          | Ph.D. in Physics (Chronophysics or Temporal Mechanics)                                 |
+| Diagnostic Physics                 | Intermediate to Advanced | Master's in Physics or Medical Physics                                                 |
+| Quantum Neurogenetics              | Highly Advanced          | Ph.D. in Quantum Physics, Genetics, or Neuroscience                                    |
+| Computational Atomics              | Advanced                 | Ph.D. in Physics or Computational Chemistry                                            |
+| CPLDs                              | Intermediate             | Bachelor's in Electrical or Computer Engineering                                       |
+| Computational Agribusiness         | Intermediate to Advanced | Master's or Ph.D. in Agricultural Sciences, Data Science, or Environmental Science     |
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
