@@ -155,6 +155,8 @@ This serves as a notice of Sourceduty's commitment to protecting its intellectua
 [Science](https://github.com/sourceduty/Science)
 <br>
 [Noncommercial Science](https://creativecommons.org/licenses/by-nc/4.0/)
+<br>
+[Virtual HPC Simulator](https://github.com/sourceduty/Virtual_HPC_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
