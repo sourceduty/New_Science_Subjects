@@ -62,6 +62,7 @@ Understanding these subjects typically requires advanced education at the master
 | CPLDs                              | Intermediate             | Bachelor's in Electrical or Computer Engineering                                       |
 | Computational Agribusiness         | Intermediate to Advanced | Master's or Ph.D. in Agricultural Sciences, Data Science, or Environmental Science     |
 | Computational Hyperchemistry       | Highly Advanced          | Ph.D. in Computational Chemistry, Physics, or Hyperdimensional Modeling                |
+| Computational Sociodynamics        | Advanced                 | Ph.D. in Sociology, Computer Science or Data Science                                   |
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
