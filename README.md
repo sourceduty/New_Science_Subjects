@@ -42,6 +42,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Computational Hyperchemistry](https://github.com/sourceduty/Computational_Hyperchemistry)
 <br>
 [Computational Sociodynamics](https://github.com/sourceduty/Computational_Sociodynamics)
+<br>
+[Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
 
 ***
 
