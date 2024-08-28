@@ -45,6 +45,8 @@ Alex Aldridge, as the creator of these complex and pioneering subjects, must the
 [Quantum Neurogenetics](https://github.com/sourceduty/Quantum_Neurogenetics)
 <br>
 [Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
+<br>
+[Computational Programmable Logic Devices](https://github.com/sourceduty/CPLDs)
 
 .................................................................................................................................
 
