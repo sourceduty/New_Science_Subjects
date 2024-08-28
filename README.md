@@ -49,6 +49,8 @@ Alex Aldridge, as the creator of these complex and pioneering subjects, must the
 [Computational Programmable Logic Devices](https://github.com/sourceduty/CPLDs)
 <br>
 [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
+<br>
+[Computational Hyperchemistry](https://github.com/sourceduty/Computational_Hyperchemistry)
 
 .................................................................................................................................
 
@@ -71,6 +73,7 @@ Understanding these subjects typically requires advanced education at the master
 | Computational Atomics              | Advanced                 | Ph.D. in Physics or Computational Chemistry                                            |
 | CPLDs                              | Intermediate             | Bachelor's in Electrical or Computer Engineering                                       |
 | Computational Agribusiness         | Intermediate to Advanced | Master's or Ph.D. in Agricultural Sciences, Data Science, or Environmental Science     |
+| Computational Hyperchemistry       | Highly Advanced          | Ph.D. in Computational Chemistry, Physics, or Hyperdimensional Modeling                |
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
