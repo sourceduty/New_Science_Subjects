@@ -40,6 +40,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
 <br>
 [Computational Hyperchemistry](https://github.com/sourceduty/Computational_Hyperchemistry)
+<br>
+[Computational Sociodynamics](https://github.com/sourceduty/Computational_Sociodynamics)
 
 ***
 
