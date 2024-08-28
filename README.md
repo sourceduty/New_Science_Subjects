@@ -12,7 +12,7 @@ Beyond initial research and peer review, further validation requires ongoing stu
 
 To contribute to the validation of new scientific subjects, one typically needs to be a student or professor actively engaged in academic or research settings. Professors play a crucial role by leading research projects, conducting experiments, and publishing their findings in scientific journals, which are then subject to peer review. Students, often working under the guidance of professors, can also participate in these research efforts, gaining hands-on experience in the scientific process. Both students and professors are involved in attending and presenting at conferences and symposiums, where they share insights, challenge theories, and collaborate with peers. This academic environment fosters the rigorous scrutiny, discussion, and collaboration necessary for validating new scientific discoveries and integrating them into the broader scientific community.
 
-#
+***
 ### New Science Subjects
 
 [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
@@ -66,7 +66,7 @@ Understanding these subjects typically requires advanced education at the master
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
-#
+***
 ### Helping New Computational Scientific Researchers
 
 Supporting new computational scientific researchers requires a multifaceted approach that focuses on both foundational skills and advanced methodologies. Firstly, it's essential to provide a solid grounding in computational tools and programming languages, such as Python, R, or MATLAB, that are widely used in research. Offering workshops, online courses, and access to educational resources can help researchers become proficient in these tools. Additionally, fostering a community of practice, where experienced researchers mentor newcomers, can accelerate the learning curve by offering practical insights and troubleshooting assistance.
