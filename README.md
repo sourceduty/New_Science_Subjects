@@ -46,6 +46,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
 <br>
 [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
+<br>
+[Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
 
 ***
 
@@ -69,6 +71,7 @@ Understanding these subjects typically requires advanced education at the master
 | Computational Sociodynamics        | Advanced                 | Ph.D. in Sociology, Computer Science or Data Science                                   |
 | Cyberdiagnostic Physics            | Highly Advanced          | Ph.D. in Cybernetics, Physics, and Computer Science                                    |
 | Electrophysics Reactor             | Highly Advanced          | Ph.D. in Electromagnetics, Plasma Physics, or Computational Electrophysics             |
+| Computational Metarobotics         | Highly Advanced          | Ph.D. in Robotics, AI, Computational Science, or Systems Engineering                   |
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
