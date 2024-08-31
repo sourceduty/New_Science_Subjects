@@ -31,8 +31,6 @@ To contribute to the validation of new scientific subjects, one typically needs 
 <br>
 [Quantum Neurogenetics](https://github.com/sourceduty/Quantum_Neurogenetics)
 <br>
-[Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
-<br>
 [Computational Programmable Logic Devices](https://github.com/sourceduty/CPLDs)
 <br>
 [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
@@ -50,6 +48,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 ### Evolved or Innovated Science Subjects
 
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
 
 ***
 
