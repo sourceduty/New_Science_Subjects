@@ -33,8 +33,6 @@ To contribute to the validation of new scientific subjects, one typically needs 
 <br>
 [Computational Sociodynamics](https://github.com/sourceduty/Computational_Sociodynamics)
 <br>
-[Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
-<br>
 [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
 <br>
 [Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
@@ -50,6 +48,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
 <br>
 [Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
+<br>
+[Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
 
 ***
 
