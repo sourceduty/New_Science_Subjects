@@ -62,7 +62,7 @@ Both students and professors are actively involved in the validation of new scie
 <br>
 [Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
 <br>
-[Systematic Aerologics](https://github.com/sourceduty/Systematic_Aerologic)
+[Systematic Aerologics](https://github.com/sourceduty/Systematic_Aerologics)
 <br>
 [Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 
