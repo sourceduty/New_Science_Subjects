@@ -36,8 +36,6 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
 <br>
 [Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
-<br>
-[Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 
 ### Evolved or Innovated Science Subjects
 
@@ -54,6 +52,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
 <br>
 [Systematic Aerologics](https://github.com/sourceduty/Systematic_Aerologic)
+<br>
+[Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 
 ***
 
