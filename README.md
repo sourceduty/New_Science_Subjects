@@ -36,6 +36,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
 <br>
 [Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
+<br>
+[Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 
 ### Evolved or Innovated Science Subjects
 
@@ -77,6 +79,7 @@ Understanding these subjects typically requires advanced education at the master
 | Electrophysics Reactor             | Highly Advanced          | Ph.D. in Electromagnetics, Plasma Physics, or Computational Electrophysics             |
 | Computational Metarobotics         | Highly Advanced          | Ph.D. in Robotics, AI, Computational Science, or Systems Engineering                   |
 | Systematic Aerologics              | Advanced                 | Ph.D. in Aerodynamics, Aerospace Engineering, or Computational Fluid Dynamics          |
+| Computational Electrofusion        | Highly Advanced	        | Ph.D. in Computational Physics, Electrodynamics, or Quantum Mechanics                  |
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
