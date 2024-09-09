@@ -69,6 +69,8 @@ Both students and professors are actively involved in the validation of new scie
 [Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 <br>
 [Autonomous Biology](https://github.com/sourceduty/Autonomous_Biology)
+<br>
+[Biomechanical Logic](https://github.com/sourceduty/Biomechanical_Logic)
 
 ***
 
