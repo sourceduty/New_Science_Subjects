@@ -47,6 +47,8 @@ Both students and professors are actively involved in the validation of new scie
 [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
 <br>
 [Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
+<br>
+[Computational Quantum Topology](https://github.com/sourceduty/Computational_Quantum_Topology)
 
 ### Evolved or Innovated Science Subjects
 
@@ -91,6 +93,7 @@ Understanding these subjects typically requires advanced education at the master
 | Computational Metarobotics         | Highly Advanced          | Ph.D. in Robotics, AI, Computational Science, or Systems Engineering                   |
 | Systematic Aerologics              | Advanced                 | Ph.D. in Aerodynamics, Aerospace Engineering, or Computational Fluid Dynamics          |
 | Computational Electrofusion        | Highly Advanced	        | Ph.D. in Computational Physics, Electrodynamics, or Quantum Mechanics                  |
+| Computational Quantum Topology     | Highly Advanced          | Ph.D. in Quantum Physics, Topology, or Computational Mathematics                       |
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
