@@ -71,6 +71,8 @@ Both students and professors are actively involved in the validation of new scie
 [Autonomous Biology](https://github.com/sourceduty/Autonomous_Biology)
 <br>
 [Biomechanical Logic](https://github.com/sourceduty/Biomechanical_Logic)
+<br>
+[Computational Environmental Science](https://github.com/sourceduty/Computational_Environmental_Science)
 
 ***
 
