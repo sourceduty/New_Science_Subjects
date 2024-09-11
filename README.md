@@ -221,6 +221,8 @@ Donating new science subjects created by Sourceduty to future schools can signif
 [Virtual HPC Simulator](https://github.com/sourceduty/Virtual_HPC_Simulator)
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
+<br>
+[Education Automation](https://github.com/sourceduty/Education_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
