@@ -219,6 +219,8 @@ Donating new science subjects created by Sourceduty to future schools can signif
 [Noncommercial Science](https://creativecommons.org/licenses/by-nc/4.0/)
 <br>
 [Virtual HPC Simulator](https://github.com/sourceduty/Virtual_HPC_Simulator)
+<br>
+[Improvement Value](https://github.com/sourceduty/Improvement_Value)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
