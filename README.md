@@ -73,6 +73,8 @@ Both students and professors are actively involved in the validation of new scie
 [Biomechanical Logic](https://github.com/sourceduty/Biomechanical_Logic)
 <br>
 [Computational Environmental Science](https://github.com/sourceduty/Computational_Environmental_Science)
+<br>
+[Material Computation](https://github.com/sourceduty/Material_Computation)
 
 ***
 
