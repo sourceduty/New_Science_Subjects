@@ -51,6 +51,8 @@ Both students and professors are actively involved in the validation of new scie
 [Computational Quantum Topology](https://github.com/sourceduty/Computational_Quantum_Topology)
 <br>
 [File Farming](https://github.com/sourceduty/File_Farming)
+<br>
+[Thermotronics](https://github.com/sourceduty/Thermotronics/tree/main)
 
 ### Evolved or Innovated Science Subjects
 
@@ -105,6 +107,7 @@ Understanding these subjects typically requires advanced education at the master
 | Computational Electrofusion         | Highly Advanced        | Ph.D. in Computational Physics, Electrodynamics, or Quantum Mechanics | Advances fusion energy research, optimizing processes for more effective and sustainable energy generation.                                 |
 | Computational Quantum Topology      | Highly Advanced        | Ph.D. in Quantum Physics, Topology, or Computational Mathematics| Explores the interface between quantum physics and topology, driving innovations in quantum computing and complex systems modeling.             |
 | File Farming                        | Intermediate           | Bachelor's in Computer Science, Information Systems, or Digital Content Management | Optimizes the management, growth, and scalability of digital files through structured virtual environments, improving content creation and file organization. |
+| Thermotronics | Intermediate to Advanced| Bachelor's or Master's in Physics, Material Science, or Electrical Engineering | Develops energy-efficient systems and thermal-based circuits by utilizing temperature differentials for switching, sensing, and energy conversion. |
 
 As more subjects are created, this table will expand to include them, providing a comprehensive overview of each new field's science level and the suggested education needed to understand it. This ongoing development will ensure that the table remains a valuable resource for those exploring these advanced topics.
 
