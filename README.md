@@ -168,16 +168,7 @@ As Sourceduty looks toward 2025, the company remains deeply committed to advanci
 Following 2025, Sourceduty plans to gradually reduce its active development, transitioning from a creator of new scientific subjects to a supportive role within the scientific community. This strategic shift will enable Sourceduty to sustain its contributions to scientific research by offering resources, expertise, and guidance to researchers exploring the concepts Sourceduty has pioneered. Sourceduty's long-term vision is to ensure that the scientific advancements it has fostered continue to evolve, benefiting future generations of scientists and innovators.
 
 #
-### Ownership of Science Subjects
-
-All science research subject information, frameworks, repositories, and source codes developed by Sourceduty are the exclusive intellectual property of Sourceduty and are protected under commercial copyright law. All rights are reserved.
-
-This is an ownership notice regarding the use of Sourceduty scientific research materials. You are permitted to distribute, remix, adapt, and build upon the materials developed by Sourceduty, but only for noncommercial purposes. Any such use must include proper attribution to Sourceduty as the original creator. Commercial use of these materials, including reproduction, distribution, transmission, or sale, is strictly prohibited without prior written consent from Sourceduty. Failure to comply with these terms, including the omission of appropriate attribution, will be considered a violation of Sourceduty's rights and may result in legal action.
-
-This serves as a notice of Sourceduty's commitment to protecting its intellectual property and ensuring that its materials are used in accordance with the specified conditions. Sourceduty will take legal action to stop any unauthorized sales, distribution, or use of its science research subject materials and will enforce its rights to the fullest extent of the law.
-
-#
-### Adaopting Newly Created Science Subjects
+### Adopting Newly Created Science Subjects
 
 ![Schools](https://github.com/user-attachments/assets/89ca6902-4b54-46cb-a0f0-4cd13b0e3502)
 
