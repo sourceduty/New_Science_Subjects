@@ -177,11 +177,13 @@ This is an ownership notice regarding the use of Sourceduty scientific research 
 This serves as a notice of Sourceduty's commitment to protecting its intellectual property and ensuring that its materials are used in accordance with the specified conditions. Sourceduty will take legal action to stop any unauthorized sales, distribution, or use of its science research subject materials and will enforce its rights to the fullest extent of the law.
 
 #
-### Donating Science Subjects
+### Adaopting Newly Created Science Subjects
 
 ![Schools](https://github.com/user-attachments/assets/89ca6902-4b54-46cb-a0f0-4cd13b0e3502)
 
-Donating new science subjects created by Sourceduty to future schools can significantly advance educational opportunities and the overall development of young minds. By providing innovative content, such as cutting-edge topics in science, technology, and sustainability, these contributions will allow schools to expand their curricula and offer students access to modern scientific knowledge. This ensures that learners are better prepared for future challenges and technological advancements. Furthermore, integrating Sourceduty's subjects into education fosters critical thinking and creativity, encouraging students to explore new areas of research and innovation, ultimately contributing to societal progress.
+Colleges and universities often adopt and adapt school subjects to create more specialized and advanced programs that meet the evolving needs of students and industries. By expanding traditional disciplines or introducing interdisciplinary courses, higher education institutions can provide a more comprehensive and relevant education, fostering critical thinking and innovation. This strategic adoption allows institutions to stay competitive, attract a diverse student body, and prepare graduates for the complexities of the modern workforce.
+
+Regarding copyright, the subjects themselves are not protected by copyright law. Copyright typically safeguards the specific expression of ideas, such as textbooks, lectures, and unique course materials, rather than the underlying subjects or concepts. Therefore, if you develop a new science subject, the general concept or framework of the subject is not protected. However, any original materials you create to teach that subject, such as syllabi, lecture notes, or multimedia content, would be eligible for copyright protection. This means others cannot directly copy your specific educational resources, but they are free to explore and teach the subject matter itself.
 
 #
 ### Related Links
@@ -233,4 +235,4 @@ Donating new science subjects created by Sourceduty to future schools can signif
 [Education Automation](https://github.com/sourceduty/Education_Automation)
 
 ***
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
+🛈 This information is free and open-source; anyone can redistribute it and/or modify.
