@@ -79,6 +79,8 @@ Both students and professors are actively involved in the validation of new scie
 [Computational Environmental Science](https://github.com/sourceduty/Computational_Environmental_Science)
 <br>
 [Material Computation](https://github.com/sourceduty/Material_Computation)
+<br>
+[Botanical Diagnostics](https://github.com/sourceduty/Botanical_Diagnostics)
 
 ***
 
