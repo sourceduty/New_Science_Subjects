@@ -172,6 +172,12 @@ Colleges and universities often adopt and adapt school subjects to create more s
 Regarding copyright, the subjects themselves are not protected by copyright law. Copyright typically safeguards the specific expression of ideas, such as textbooks, lectures, and unique course materials, rather than the underlying subjects or concepts. Therefore, if you develop a new science subject, the general concept or framework of the subject is not protected. However, any original materials you create to teach that subject, such as syllabi, lecture notes, or multimedia content, would be eligible for copyright protection. This means others cannot directly copy your specific educational resources, but they are free to explore and teach the subject matter itself.
 
 #
+
+> Alex: "*I'm frustrated with the lack of public and private information that needs to be created or accumulated for science.*"
+
+> "*The lack of info for science might be infinite.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
